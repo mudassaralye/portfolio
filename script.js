@@ -96,7 +96,7 @@ function loadSection(section, isInitialLoad = false) {
                               </div>
                           </div>
                           <div class="education-details">
-                              <p class="gpa"><strong>GPA:</strong> 3.1/4.0</p>
+                              <p class="gpa"><strong>GPA:</strong> 3.22/4.0</p>
                               <h4>Coursework:</h4>
                               <ul class="coursework-list">
                                   <li>Advanced Digital Image Processing</li>
@@ -457,3 +457,4 @@ function initTypingEffect() {
     // Start typing
     timeoutId = setTimeout(typeLoop, 1000);
 }
+
